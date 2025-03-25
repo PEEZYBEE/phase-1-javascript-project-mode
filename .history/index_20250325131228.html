@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Book Tracker</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Book Tracker</h1>
+
+        <!-- Search Bar -->
+        <input type="text" id="searchInput" placeholder="Search books..." />
+
+        <!-- Search Results -->
+        <div id="bookList"></div>
+
+        <!-- Reading Lists Section -->
+        <div id="readingLists">
+            <h2>Reading Lists</h2>
+            <div id="toReadList">
+                <h3>To-Read</h3>
+                <ul id="toReadBooks"></ul>
+            </div>
+            <div id="currentlyReadingList">
+                <h3>Currently Reading</h3>
+                <ul id="currentlyReadingBooks"></ul>
+            </div>
+            <div id="completedList">
+                <h3>Completed</h3>
+                <ul id="completedBooks"></ul>
+            </div>
+        </div>
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,86 @@
+{
+    "series": [
+      {
+        "id": 1,
+        "title": "Dragon",
+        "image": "https://i.pinimg.com/236x/5f/c9/0b/5fc90b8466c85ac25388b1aed080023b.jpg",
+        "description": "A powerful dragon ruling over a kingdom of fire and fury.",
+        "runtime":"2hrs 15mins",
+        "hashtag": "#dragon"
+
+      },
+      {
+        "id": 2,
+        "title": "Kingdom",
+        "image": "https://i.pinimg.com/474x/01/c6/c2/01c6c24725878ff46481fd04c53f1fe7.jpg",
+        "description": "A kingdom on the brink of war and chaos. A story of power and betrayal.",
+        "runtime":"2hrs 25 mins",
+        "hashtag": "#kingdom"
+      },
+      {
+        "id": 3,
+        "title": "Sails",
+        "image": "https://i.pinimg.com/236x/cd/23/f1/cd23f1a556132d116e0dcc50748dda70.jpg",
+        "description": "A journey across vast oceans, full of adventure and mystery.",
+        "runtime":"3hrs",
+        "hashtag": "#sails"
+      },
+      {
+        "id": 4,
+        "title": "Thrones",
+        "image": "https://i.pinimg.com/474x/53/f1/0a/53f10ac7d77bee8acd4b5966d6145b7f.jpg",
+        "description": "A battle for the throne, where only the strongest will survive.",
+        "runtime":"2hrs 30mins",
+        "hashtag": "#thrones"
+      },
+      {
+        "id": 5,
+        "title": "Thrones 2",
+        "image": "https://i.pinimg.com/474x/d6/60/5d/d6605dda1d934c1aaad4680688001030.jpg",
+        "description": "The saga continues with even more betrayal and deceit.",
+        "runtime":"1hr 45mins",
+        "hashtag": "#thrones2"
+      },
+      {
+        "id": 6,
+        "title": "Wall",
+        "image": "https://i.pinimg.com/236x/04/f0/de/04f0defd707fff241673e1ee8f016fb9.jpg",
+        "description": "Where combat locks heads.",
+        "runtime":"3hrs",
+        "hashtag": "#Badlands"
+      },
+      {
+        "id": 7,
+        "title": "Bone",
+        "image": "https://i.pinimg.com/236x/8e/29/3b/8e293b7bf1641ace04d35ea4a1761a3d.jpg",
+        "description": "An ancient legend unfolds as a warrior seeks redemption.",
+        "runtime":"2hrs 45mins",
+        "hashtag": "#bone"
+      },
+      {
+        "id": 8,
+        "title": "Del",
+        "image": "https://i.pinimg.com/736x/3a/85/9f/3a859fbea35977ad44df4c626b90863b.jpg",
+        "description": "A mind-bending thriller with twists that will leave you breathless.",
+        "runtime":"3hrs",
+        "hashtag": "#del"
+      },
+      {
+        "id": 9,
+        "title": "Witcher",
+        "image": "https://i.pinimg.com/736x/95/0a/7a/950a7a59105c9f8653bd370a91a86020.jpg",
+        "description": "The witcher continues his journey, facing monsters and moral dilemmas.",
+        "runtime":"2hrs 30mins",
+        "hashtag": "#witcher"
+      },
+      {
+        "id": 10,
+        "title": "Fall",
+        "image": "https://i.pinimg.com/236x/52/76/0c/52760c63086048b4e7713461fff547e5.jpg",
+        "description": "As the kingdom falls, a group of rebels rise up against tyranny.",
+        "runtime":"3hrs",
+        "hashtag": "#fall"
+      }
+    ]
+  }
+  
